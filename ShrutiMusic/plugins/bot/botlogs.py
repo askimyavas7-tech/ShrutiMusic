@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
+# Copyright (c) 2025 Nand Yaduwanshi <porn>
 # Location: Supaul, Bihar
 #
 # All rights reserved.
@@ -117,9 +117,9 @@ async def on_left_chat_member(_, message: Message):
 
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 🔗 GitHub : https://github.com/porn
+# 📢 Telegram Channel : https://t.me/yasamakbuysa
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From Trendyol 
