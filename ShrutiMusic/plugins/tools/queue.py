@@ -291,13 +291,13 @@ async def queue_back(client, CallbackQuery: CallbackQuery, _):
             return
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @  Nand Yaduwanshi
 
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 🔗 GitHub : https://github.com/porn
+# 📢 Telegram Channel : https://t.me/yasamakbuysa
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From Trendyol 
