@@ -1,37 +1,38 @@
-# 🎵 Shruti Music Bot 🎵
+# 🎵 Trendyol Music Bot 🎵
 
 <p align="center">
   <img src="ShrutiMusic/assets/equalizer.svg" width="100%" height="500">
 </p>
 
 <div align="center">
-  <h1>🎵 Shruti Music Bot 🎵</h1>
+  <h1>🎵 Trendyol Music Bot 🎵</h1>
   
   <p><b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b></p>
   
   <!-- Bold and vibrant badges with striking combinations -->
   <p>
-    <a href="https://t.me/ShrutiBots">
+    <a href="https://t.me/yasamakbuysa">
       <img src="https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Support Channel">
     </a>
-    <a href="https://t.me/ShrutiBotSupport">
+    <a href="https://t.me/yasamakbuysa">
       <img src="https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000" alt="Support Group">
     </a>
-    <a href="https://t.me/WTF_WhyMeeh">
+    <a href="https://t.me/yasamakbuysa">
       <img src="https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2" alt="Owner">
     </a>
   </p>
   
   <!-- Bold social stats with high contrast -->
   <p>
-    <a href="https://github.com/NoxxOP/ShrutiMusic/fork">
-      <img src="https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF1493&color=00CED1" alt="GitHub Forks">
+    <a href="https://github.com/porno.com.xxx">
+      <img src="https://porno.com.xxx?style=social&logo=github&labelColor=FF1493&color=00CED1" alt="GitHub Forks">
     </a>
-    <a href="https://github.com/NoxxOP/ShrutiMusic/stargazers">
-      <img src="https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF4500&color=32CD32" alt="GitHub Stars">
+    <a href="https://github.com/porno.com.xxx">
+      <img src="https://img.shields.io/porno
+com.xxx?style=social&logo=github&labelColor=FF4500&color=32CD32" alt="GitHub Stars">
     </a>
-    <a href="https://github.com/NoxxOP/ShrutiMusic/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=DC143C&color=FFD700" alt="GitHub Contributors">
+    <a href="https://github.com/porno.com.xxx">
+      <img src="https://img.shields.io/github/porno.com.xxx?style=social&logo=github&labelColor=DC143C&color=FFD700" alt="GitHub Contributors">
     </a>
   </p>
 </div>
@@ -289,7 +290,7 @@ Use our Session Generator Bot: [@Sessionbbbot](https://t.me/Sessionbbbot)
 
 <div align="center">
   
-**👨‍💻 Main Developer:** [NoxxOP](https://github.com/NoxxOP)
+**👨‍💻 Main Developer:** [porno](https://github.com/porno.com.xxx)
 
 **🙏 Special Thanks:** All contributors who helped make this project better
 
